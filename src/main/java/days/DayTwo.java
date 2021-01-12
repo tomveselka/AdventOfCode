@@ -37,7 +37,7 @@ public class DayTwo {
 		
 	}
 
-	public static void taskOne(List<PasswordRows> passwords) {
+	public void taskOne(List<PasswordRows> passwords) {
 		int numberOfChar=0;
 		int numberOfValid=0;
 		for (PasswordRows row : passwords) {
@@ -51,7 +51,7 @@ public class DayTwo {
 		System.out.println("Task one: Number of valid passwords is: "+numberOfValid);
 	}
 	
-	public static void taskTwo(List<PasswordRows> passwords) {
+	public void taskTwo(List<PasswordRows> passwords) {
 
 		int numberOfValid=0;
 		for (PasswordRows row : passwords) {
