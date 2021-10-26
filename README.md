@@ -1,5 +1,6 @@
 # AdventOfCode
 Just saving my attempts on Advent of Code 2020 (33 stars only)
+
 1**
 2**
 3**
@@ -25,3 +26,5 @@ Just saving my attempts on Advent of Code 2020 (33 stars only)
 23*
 24*
 25*
+
+[Link to the tasks](https://adventofcode.com/2020)
